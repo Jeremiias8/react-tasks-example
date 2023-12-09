@@ -1,2 +1,2 @@
 # react-tasks-example
-Portfolio tipo CRUD desarrollado dentro de curso sobre las bases esenciales de React.
+Portfolio de tipo CRUD, desarrollado dentro de el curso completado sobre las bases esenciales de React.
